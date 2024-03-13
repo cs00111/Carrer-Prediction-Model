@@ -1,0 +1,372 @@
+Education Level,Spoken English Level,CGPA,Skill1,Skill2,Predicted Career
+Masters,4,8.5,Data Analysis,Data Analysis,Data Scientist
+Bachelors,3,7.8,Content Writing,Machine Learning,Data Scientist
+Masters,5,9.2,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.0,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.7,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.5,Web Development,Graphic Design,Web Developer
+Masters,5,9.0,Cybersecurity,Network Administration,Cybersecurity Analyst
+Bachelors,4,8.3,Project Management,Problem-Solving,Project Manager
+Masters,3,7.7,Data Analysis,Python Programming,Data Scientist
+Bachelors,5,9.5,Python Programming,Machine Learning,Machine Learning Engineer
+Masters,4,8.4,Web Development,Python Programming,Software Developer
+Bachelors,4,8.1,Content Writing,Social Media Management,Content Writer
+Masters,3,7.8,Data Analysis,Python Programming,Data Scientist
+Bachelors,5,9.2,Python Programming,Machine Learning,Machine Learning Engineer
+Masters,4,8.6,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.0,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.4,Project Management,Problem-Solving,Project Manager
+Bachelors,3,7.6,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.3,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.1,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
+Bachelors,3,7.8,Social Media Management,Content Writing,Social Media Coordinator
+Masters,5,9.3,Data Analysis,Python Programming,Data Scientist
+Bachelors,4,8.2,Machine Learning,Python Programming,Machine Learning Engineer
+Masters,4,8.5,Web Development,Python Programming,Software Developer
+Bachelors,3,7.7,Project Management,Problem-Solving,Project Manager
+Masters,5,9.0,Python Programming,Machine Learning,Machine Learning Engineer
+Bachelors,4,8.4,Data Analysis,Python Programming,Data Scientist
+Masters,4,8.8,Machine Learning,Data Analysis,Data Scientist
+Bachelors,3,7.9,Graphic Design,Web Development,Graphics Designer
+Masters,5,9.5,Project Management,Problem-Solving,Project Manager
+Bachelors,4,8.1,Python Programming,Data Analysis,Data Scientist
+Masters,4,8.6,Machine Learning,Python Programming,Machine Learning Engineer
+Bachelors,5,9.2,Web Development,Python Programming,Software Developer
+Masters,4,8.7,Problem-Solving,Python Programming,Software Developer
